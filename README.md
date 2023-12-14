@@ -3,7 +3,7 @@
 <h3 align="center">I'm a passionate software developer with a deep love for coding and a flair for problem-solving.</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/c2q8oZgq7866PmVS6">
+<img align="right" alt="Coding" width="400" src="girl.gif">
 
 
 
